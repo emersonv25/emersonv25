@@ -1,4 +1,6 @@
 ### Hi there 👋
+#### My name is Emerson and I have a degree in Systems Analysis and Development. I currently work as a front-end developer.
+This is my personal repository, it is currently out of date with projects from my college days. I'm updating little by little ⚡
 
 <!--
 **emersonv25/emersonv25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
