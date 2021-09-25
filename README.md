@@ -1,23 +1,46 @@
-### Hi there 👋
-#### My name is Emerson and I have a degree in Systems Analysis and Development. I currently work as a front-end developer.
-This is my personal repository, it is currently out of date with projects from my college days. I'm updating little by little ⚡
+# 👋 Oi, eu sou o Emerson  
 
-<div>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=emersonv25&show_icons=true&theme=onedark&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonv25&hide=TeX&langs_count=10&theme=onedark&layout=compact&langs_count=7)](https://github.com/anuraghazra/github-readme-stats"/>
+
+- 🐱‍🏍 Cursando Análise e Desenvolvimento de Sistemas.
+
+- 🐱‍👤 Atualmente trabalho como desenvolvedor web utilizando as tecnologias Asp .Net Core, Javascript e Vue.js.
+
+
+#
+
+
+<div align="center">
+
+    <programador> Emerson J. Santos </programador>
+
+<br>
+<p>
+
+  <a href ="mailto:emersondejesussantos@hotmail.com">
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"target="_blank"></a>
+
+  <a href="https://www.linkedin.com/in/emerson-de-jesus-santos-303640195/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+
+</p>
+<br>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="center" alt="Computador iuriCode">
+<div style="display: inline_block"><br>
+    <img align="center" alt="emrsonv25-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <img align="center" alt="emrsonv25-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+    <img align="center" alt="emrsonv25-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="emrsonv25-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="emrsonv25-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="emrsonv25-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="emrsonv25-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </div>
-
-<!--
-**emersonv25/emersonv25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+    
+<div >
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=emersonv25&show_icons=true&theme=dark&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonv25&hide=TeX&langs_count=10&theme=dark&layout=compact&langs_count=7)](https://github.com/anuraghazra/github-readme-stats"/>
+</div>
+<br>
+    
+</div>
