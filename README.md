@@ -2,6 +2,11 @@
 #### My name is Emerson and I have a degree in Systems Analysis and Development. I currently work as a front-end developer.
 This is my personal repository, it is currently out of date with projects from my college days. I'm updating little by little ⚡
 
+<div>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=emersonv25&show_icons=true&theme=onedark&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonv25&hide=TeX&langs_count=10&theme=onedark&layout=compact&langs_count=7)](https://github.com/anuraghazra/github-readme-stats"/>
+</div>
+
 <!--
 **emersonv25/emersonv25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
