@@ -1,9 +1,9 @@
 # 👋 Oi, eu sou o Emerson  
 
 
-- 🐱‍🏍 Cursando Análise e Desenvolvimento de Sistemas.
+- 🐱‍🏍 Graduado em Análise e Desenvolvimento de Sistemas.
 
-- 🐱‍👤 Atualmente trabalho como desenvolvedor web utilizando as tecnologias Asp .Net Core, Javascript e Vue.js.
+- 🐱‍👤 Atualmente trabalho como desenvolvedor Back-End utilizando as tecnologias .Net Framework e SQL Server.
 
 
 #
