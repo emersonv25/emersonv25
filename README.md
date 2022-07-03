@@ -3,7 +3,7 @@
 
 - 🐱‍🏍 Graduado em Análise e Desenvolvimento de Sistemas.
 
-- 🐱‍👤 Atualmente trabalho como desenvolvedor Back-End utilizando as tecnologias; .Net Framework, ASP .NET Core e SQL Server.
+- 🐱‍👤 Atualmente trabalho como desenvolvedor Back-End utilizando as tecnologias; .Net Framework, .NET e SQL Server.
 
 
 
