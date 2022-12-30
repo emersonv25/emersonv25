@@ -3,7 +3,7 @@
 
 - 🐱‍🏍 Graduado em Análise e Desenvolvimento de Sistemas.
 
-- 🐱‍👤 Atualmente trabalho como desenvolvedor Back-End utilizando as tecnologias; .Net Framework, .NET e SQL Server.
+- 🐱‍👤 Atualmente trabalho como desenvolvedor FullStack utilizando as tecnologias; .Net Core, SQL, Node.Js e React/Next.
 
 
 
@@ -12,7 +12,7 @@
 
 <div align="center">
 
-    <programador> Emerson J. Santos </programador>
+    <dev> Emerson J. Santos </dev>
 
 <br>
 <p>
