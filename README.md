@@ -3,7 +3,7 @@
 
 - 🐱‍🏍 Graduado em Análise e Desenvolvimento de Sistemas.
 
-- 🐱‍👤 Atualmente trabalho como desenvolvedor FullStack utilizando as tecnologias; .Net Core, SQL, Node.Js e React/Next.
+- 🐱‍👤 Atualmente trabalho como desenvolvedor FullStack utilizando as tecnologias; .Net Core, SQL,Node.Js, NestJs e React/Next.
 
 
 
