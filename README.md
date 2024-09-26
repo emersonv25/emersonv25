@@ -39,12 +39,4 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=emersonv25&show_icons=true&theme=dark&count_private=true"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonv25&hide=TeX&langs_count=10&theme=dark&layout=compact&langs_count=7)](https://github.com/anuraghazra/github-readme-stats"/>
 </div>
-<br>
-    <div>
-
-
-    ⁠"Qualquer um pode escrever um código que o computador entenda. Bons programadores escrevem códigos que os humanos entendem" 
-    - Martin Fowle
-
-</div>
 </div>
